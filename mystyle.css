@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+}
+
+a {
+  background-color: lightyellow;
+}
+
+
+a:hover {
+  background-color: yellow;
+}
+
+.table {
+background-color: white;
+}
+
+
+#Table {
+background-color: gray;
+}
+
+[randomattribute="mi"] {
+background-color: green;
+}
+
+
+.divinelist{
+border: black solid
+}
+
+
+
